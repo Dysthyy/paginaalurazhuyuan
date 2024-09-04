@@ -51,6 +51,7 @@ p {
 .categoria-videos img {
     opacity: 0.5;
     height: 200px;
+    transition: all 0.4s ease-in;
 }
 
 .categoria-videos img:hover {
